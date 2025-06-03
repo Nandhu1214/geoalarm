@@ -15,13 +15,13 @@ const alarmsList = document.querySelector('.card-content');
 let activeAlarms = [
     {
         id: 1,
-        destination: 'Times Square, New York',
+        destination: 'Kariyavattom campus',
         radius: 100,
         tone: '🔔 Bell'
     },
     {
         id: 2,
-        destination: 'Central Park',
+        destination: 'Hymavati pond',
         radius: 250,
         tone: '🎵 Chime'
     }
